@@ -1,0 +1,13 @@
+body{
+
+    background-color: palevioletred;
+
+}
+
+header{
+
+    border-bottom: solid 2px palevioletred;
+    padding: 20px;
+    font-size: 32px;
+    color: silver;
+}
